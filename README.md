@@ -315,3 +315,8 @@ Determinados componentes del sistema no se incluyen debido a que corresponden a 
 ---
 
 **BioRuta 360 — Digitalización, trazabilidad y análisis aplicado a operaciones logísticas.**
+📬 Contacto
+
+Para obtener más información sobre BioRuta 360, conocer detalles técnicos o solicitar una demostración del sistema, puede contactarme a través de mi perfil profesional.
+
+Por razones de seguridad y confidencialidad, el código fuente completo, datos operativos e infraestructura del proyecto no se encuentran publicados.
